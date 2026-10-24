@@ -1,0 +1,15 @@
+<resources>
+    <string name="menu_eyebrow">United States · Geography</string>
+    <string name="menu_title">WHICH\nSTATE?</string>
+    <string name="menu_subtitle">A city appears — tap the state it belongs to. Thirty seconds on the clock.</string>
+    <string name="menu_level_meta">%1$d cities · 30 sec</string>
+    <string name="menu_party_modes">Party modes</string>
+    <string name="menu_party_describe_name">Describe</string>
+    <string name="menu_party_describe_description">Describe the city — teammate guesses its name</string>
+    <string name="menu_party_guess_state_name">Guess State</string>
+    <string name="menu_party_guess_state_description">Say the city — teammate guesses the state</string>
+    <string name="menu_mastered_line">🗺 %1$d / %2$d states mastered</string>
+    <string name="menu_switch_to_russian">Switch to Russian</string>
+    <string name="menu_switch_to_english">Switch to English</string>
+    <string name="menu_open_history">View history</string>
+</resources>

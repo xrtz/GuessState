@@ -1,0 +1,11 @@
+<resources>
+    <string name="history_title">History</string>
+    <string name="history_back">← Menu</string>
+    <string name="history_loading">Loading…</string>
+    <string name="history_best_label">Best result</string>
+    <string name="history_no_best_yet">No rounds played yet</string>
+    <string name="history_score_line">%1$d / %2$d</string>
+    <string name="history_percentile_line">Better than %1$d%% of players</string>
+    <string name="history_recent_heading">Recent attempts — %1$d</string>
+    <string name="history_recent_empty">No attempts yet — go play a round!</string>
+</resources>

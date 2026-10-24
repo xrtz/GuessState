@@ -1,0 +1,86 @@
+<resources>
+    <string-array name="rank_tier_0">
+        <item>Geography Disaster 🤡</item>
+        <item>Where Are We? 😵</item>
+        <item>Who Let You Drive? 🚗</item>
+        <item>Human GPS Error 😬</item>
+        <item>Lost in Space 🚀</item>
+        <item>Needs Google Maps 📱</item>
+        <item>Honorary Flat Earther 🌐</item>
+        <item>Geographically Hopeless 🫠</item>
+        <item>Please See a Map 🗺️</item>
+        <item>Bravely Wrong 🫡</item>
+    </string-array>
+    <string-array name="rank_tier_1">
+        <item>Lost Tourist 🗺</item>
+        <item>Please Use GPS 📡</item>
+        <item>Wrong State Again? 🤔</item>
+        <item>Cartographically Challenged 😅</item>
+        <item>Confidently Wrong 🫡</item>
+        <item>Geographic Liability 😬</item>
+        <item>State? What State? 🤷</item>
+        <item>Took the Wrong Turn 🛣️</item>
+        <item>Map? Never Heard of Her 😂</item>
+        <item>Beautifully Clueless 🌸</item>
+    </string-array>
+    <string-array name="rank_tier_2">
+        <item>Geography Rookie 📍</item>
+        <item>Still Learning 📚</item>
+        <item>Getting Warmer… 🌡️</item>
+        <item>Occasional Guesser 🎲</item>
+        <item>Tourist With a Map 🧳</item>
+        <item>Almost Getting It 🎯</item>
+        <item>Promising Start 🌱</item>
+        <item>Lucky Guesser 🍀</item>
+        <item>Shows Potential 🪴</item>
+        <item>Basically a Tourist 🧳</item>
+    </string-array>
+    <string-array name="rank_tier_3">
+        <item>Getting There 🧭</item>
+        <item>Average American 🦅</item>
+        <item>Could Be Worse 🤷</item>
+        <item>Solid Effort 💪</item>
+        <item>Midtier Explorer 🌄</item>
+        <item>Not Bad Actually 😌</item>
+        <item>Creditable Attempt 👍</item>
+        <item>Holds Their Own 🙂</item>
+        <item>Geography Contender 🏃</item>
+        <item>Passing Grade 📝</item>
+    </string-array>
+    <string-array name="rank_tier_4">
+        <item>Geography Explorer 🌎</item>
+        <item>Road Trip Ready 🚙</item>
+        <item>State Detective 🔍</item>
+        <item>Above Average 📈</item>
+        <item>Knows The Vibes 😎</item>
+        <item>Solid Geography Skills 🗺️</item>
+        <item>Miles Ahead 🚀</item>
+        <item>State of Mind 🧠</item>
+        <item>Sharp Navigator 🧭</item>
+        <item>Respectable Score 👏</item>
+    </string-array>
+    <string-array name="rank_tier_5">
+        <item>Geography Expert 🦅</item>
+        <item>State Whisperer 🗣️</item>
+        <item>Almost Perfect 🎯</item>
+        <item>Geography Nerd 🤓</item>
+        <item>Sharp Eye 👁️</item>
+        <item>Outstanding Knowledge 🏅</item>
+        <item>Atlas Brain 🌍</item>
+        <item>Geography Scholar 📚</item>
+        <item>Impressive Work 🤩</item>
+        <item>Knows Their States 🗺️</item>
+    </string-array>
+    <string-array name="rank_tier_6">
+        <item>Geography Master 🏆</item>
+        <item>State Savant 🌟</item>
+        <item>American Legend 🇺🇸</item>
+        <item>GPS Who? 📍</item>
+        <item>State Wizard 🧙</item>
+        <item>Living Atlas 🗺️</item>
+        <item>State Genius 🧠</item>
+        <item>Certified American 🇺🇸</item>
+        <item>Flawless Navigation 🎯</item>
+        <item>Hall of Fame 🏆</item>
+    </string-array>
+</resources>

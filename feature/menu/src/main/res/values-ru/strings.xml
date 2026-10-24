@@ -1,0 +1,15 @@
+<resources>
+    <string name="menu_eyebrow">США · География</string>
+    <string name="menu_title">КАКОЙ\nШТАТ?</string>
+    <string name="menu_subtitle">Появляется город — нажмите на штат, где он находится.</string>
+    <string name="menu_level_meta">%1$d городов · 30 сек</string>
+    <string name="menu_party_modes">Игры с друзьями</string>
+    <string name="menu_party_describe_name">Опиши</string>
+    <string name="menu_party_describe_description">Опишите город — товарищ по команде угадывает его название</string>
+    <string name="menu_party_guess_state_name">Угадай штат</string>
+    <string name="menu_party_guess_state_description">Назовите город — товарищ по команде угадывает штат</string>
+    <string name="menu_mastered_line">🗺 Освоено штатов: %1$d / %2$d</string>
+    <string name="menu_switch_to_russian">Переключить на русский</string>
+    <string name="menu_switch_to_english">Переключить на английский</string>
+    <string name="menu_open_history">Открыть историю</string>
+</resources>

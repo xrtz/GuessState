@@ -1,0 +1,86 @@
+<resources>
+    <string-array name="rank_tier_0">
+        <item>Географическая катастрофа 🤡</item>
+        <item>Где мы вообще? 😵</item>
+        <item>Кто пустил тебя за руль? 🚗</item>
+        <item>Живая ошибка GPS 😬</item>
+        <item>Потерян в космосе 🚀</item>
+        <item>Нужны гугл-карты 📱</item>
+        <item>Почётный плоскоземельщик 🌐</item>
+        <item>Географически безнадёжен 🫠</item>
+        <item>Посмотрите на карту, пожалуйста 🗺️</item>
+        <item>Отважно неправ 🫡</item>
+    </string-array>
+    <string-array name="rank_tier_1">
+        <item>Заблудившийся турист 🗺</item>
+        <item>Включите навигатор 📡</item>
+        <item>Опять не тот штат? 🤔</item>
+        <item>Картографически не одарён 😅</item>
+        <item>Уверенно неправ 🫡</item>
+        <item>Географическая угроза 😬</item>
+        <item>Штат? Какой штат? 🤷</item>
+        <item>Свернул не туда 🛣️</item>
+        <item>Карта? Первый раз слышу 😂</item>
+        <item>Прекрасно не в теме 🌸</item>
+    </string-array>
+    <string-array name="rank_tier_2">
+        <item>Новичок в географии 📍</item>
+        <item>Всё ещё учится 📚</item>
+        <item>Уже теплее… 🌡️</item>
+        <item>Иногда угадывает 🎲</item>
+        <item>Турист с картой 🧳</item>
+        <item>Почти уловил суть 🎯</item>
+        <item>Многообещающее начало 🌱</item>
+        <item>Везучий угадайщик 🍀</item>
+        <item>Подаёт надежды 🪴</item>
+        <item>По сути турист 🧳</item>
+    </string-array>
+    <string-array name="rank_tier_3">
+        <item>Почти у цели 🧭</item>
+        <item>Средний американец 🦅</item>
+        <item>Могло быть и хуже 🤷</item>
+        <item>Достойная попытка 💪</item>
+        <item>Исследователь средней руки 🌄</item>
+        <item>А неплохо, вообще-то 😌</item>
+        <item>Похвальная попытка 👍</item>
+        <item>Держится молодцом 🙂</item>
+        <item>Претендент по географии 🏃</item>
+        <item>Проходной балл 📝</item>
+    </string-array>
+    <string-array name="rank_tier_4">
+        <item>Исследователь географии 🌎</item>
+        <item>Готов к путешествию 🚙</item>
+        <item>Детектив по штатам 🔍</item>
+        <item>Выше среднего 📈</item>
+        <item>Чувствует атмосферу 😎</item>
+        <item>Крепкие знания географии 🗺️</item>
+        <item>На милю впереди 🚀</item>
+        <item>Штаты в голове 🧠</item>
+        <item>Острый штурман 🧭</item>
+        <item>Достойный результат 👏</item>
+    </string-array>
+    <string-array name="rank_tier_5">
+        <item>Эксперт по географии 🦅</item>
+        <item>Шептун штатов 🗣️</item>
+        <item>Почти идеально 🎯</item>
+        <item>Ботан-географ 🤓</item>
+        <item>Острый глаз 👁️</item>
+        <item>Выдающиеся знания 🏅</item>
+        <item>Мозг-атлас 🌍</item>
+        <item>Учёный-географ 📚</item>
+        <item>Впечатляющий результат 🤩</item>
+        <item>Знает все штаты 🗺️</item>
+    </string-array>
+    <string-array name="rank_tier_6">
+        <item>Мастер географии 🏆</item>
+        <item>Гений штатов 🌟</item>
+        <item>Легенда Америки 🇺🇸</item>
+        <item>Какой ещё GPS? 📍</item>
+        <item>Волшебник штатов 🧙</item>
+        <item>Живой атлас 🗺️</item>
+        <item>Гений по штатам 🧠</item>
+        <item>Сертифицированный американец 🇺🇸</item>
+        <item>Безупречная навигация 🎯</item>
+        <item>Зал славы 🏆</item>
+    </string-array>
+</resources>

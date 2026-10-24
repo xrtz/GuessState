@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.WhichState" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowBackground">@color/atlas_paper</item>
+        <item name="android:statusBarColor">@color/atlas_paper</item>
+        <item name="android:navigationBarColor">@color/atlas_paper</item>
+    </style>
+
+    <style name="Theme.WhichState.Starting" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/atlas_paper</item>
+        <item name="windowSplashScreenAnimatedIcon">@mipmap/ic_launcher</item>
+        <item name="postSplashScreenTheme">@style/Theme.WhichState</item>
+    </style>
+</resources>

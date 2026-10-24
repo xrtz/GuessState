@@ -1,0 +1,11 @@
+<resources>
+    <string name="history_title">История</string>
+    <string name="history_back">← Меню</string>
+    <string name="history_loading">Загрузка…</string>
+    <string name="history_best_label">Лучший результат</string>
+    <string name="history_no_best_yet">Раундов пока не было</string>
+    <string name="history_score_line">%1$d / %2$d</string>
+    <string name="history_percentile_line">Лучше, чем %1$d%% игроков</string>
+    <string name="history_recent_heading">Последние попытки — %1$d</string>
+    <string name="history_recent_empty">Попыток пока нет — сыграйте раунд!</string>
+</resources>

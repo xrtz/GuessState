@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Columbus",
+    "states": [
+      "GA",
+      "OH"
+    ]
+  },
+  {
+    "name": "Portland",
+    "states": [
+      "ME",
+      "OR"
+    ]
+  },
+  {
+    "name": "Kansas City",
+    "states": [
+      "KS",
+      "MO"
+    ]
+  },
+  {
+    "name": "Aurora",
+    "states": [
+      "CO",
+      "IL"
+    ]
+  },
+  {
+    "name": "Glendale",
+    "states": [
+      "AZ",
+      "CA"
+    ]
+  },
+  {
+    "name": "Springfield",
+    "states": [
+      "MA",
+      "MO"
+    ]
+  },
+  {
+    "name": "Pasadena",
+    "states": [
+      "CA",
+      "TX"
+    ]
+  },
+  {
+    "name": "Charleston",
+    "states": [
+      "SC",
+      "WV"
+    ]
+  }
+]

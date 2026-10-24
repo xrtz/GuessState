@@ -1,0 +1,1666 @@
+[
+  {
+    "id": "new-york-ny",
+    "name": "New York",
+    "state": "NY",
+    "population": 8804190,
+    "rank": 1,
+    "minLevel": 1
+  },
+  {
+    "id": "los-angeles-ca",
+    "name": "Los Angeles",
+    "state": "CA",
+    "population": 3898747,
+    "rank": 2,
+    "minLevel": 1
+  },
+  {
+    "id": "chicago-il",
+    "name": "Chicago",
+    "state": "IL",
+    "population": 2746388,
+    "rank": 3,
+    "minLevel": 1
+  },
+  {
+    "id": "houston-tx",
+    "name": "Houston",
+    "state": "TX",
+    "population": 2304580,
+    "rank": 4,
+    "minLevel": 1
+  },
+  {
+    "id": "phoenix-az",
+    "name": "Phoenix",
+    "state": "AZ",
+    "population": 1608139,
+    "rank": 5,
+    "minLevel": 1
+  },
+  {
+    "id": "philadelphia-pa",
+    "name": "Philadelphia",
+    "state": "PA",
+    "population": 1603797,
+    "rank": 6,
+    "minLevel": 1
+  },
+  {
+    "id": "san-antonio-tx",
+    "name": "San Antonio",
+    "state": "TX",
+    "population": 1434625,
+    "rank": 7,
+    "minLevel": 1
+  },
+  {
+    "id": "san-diego-ca",
+    "name": "San Diego",
+    "state": "CA",
+    "population": 1386932,
+    "rank": 8,
+    "minLevel": 1
+  },
+  {
+    "id": "dallas-tx",
+    "name": "Dallas",
+    "state": "TX",
+    "population": 1304379,
+    "rank": 9,
+    "minLevel": 1
+  },
+  {
+    "id": "san-jose-ca",
+    "name": "San Jose",
+    "state": "CA",
+    "population": 1013240,
+    "rank": 10,
+    "minLevel": 1
+  },
+  {
+    "id": "austin-tx",
+    "name": "Austin",
+    "state": "TX",
+    "population": 961855,
+    "rank": 11,
+    "minLevel": 1
+  },
+  {
+    "id": "jacksonville-fl",
+    "name": "Jacksonville",
+    "state": "FL",
+    "population": 949611,
+    "rank": 12,
+    "minLevel": 1
+  },
+  {
+    "id": "fort-worth-tx",
+    "name": "Fort Worth",
+    "state": "TX",
+    "population": 918915,
+    "rank": 13,
+    "minLevel": 1
+  },
+  {
+    "id": "columbus-oh",
+    "name": "Columbus",
+    "state": "OH",
+    "population": 905748,
+    "rank": 14,
+    "minLevel": 1
+  },
+  {
+    "id": "indianapolis-in",
+    "name": "Indianapolis",
+    "state": "IN",
+    "population": 887642,
+    "rank": 15,
+    "minLevel": 1
+  },
+  {
+    "id": "charlotte-nc",
+    "name": "Charlotte",
+    "state": "NC",
+    "population": 874579,
+    "rank": 16,
+    "minLevel": 1
+  },
+  {
+    "id": "san-francisco-ca",
+    "name": "San Francisco",
+    "state": "CA",
+    "population": 873965,
+    "rank": 17,
+    "minLevel": 1
+  },
+  {
+    "id": "seattle-wa",
+    "name": "Seattle",
+    "state": "WA",
+    "population": 737015,
+    "rank": 18,
+    "minLevel": 1
+  },
+  {
+    "id": "denver-co",
+    "name": "Denver",
+    "state": "CO",
+    "population": 715522,
+    "rank": 19,
+    "minLevel": 1
+  },
+  {
+    "id": "nashville-tn",
+    "name": "Nashville",
+    "state": "TN",
+    "population": 689447,
+    "rank": 20,
+    "minLevel": 1
+  },
+  {
+    "id": "oklahoma-city-ok",
+    "name": "Oklahoma City",
+    "state": "OK",
+    "population": 681054,
+    "rank": 21,
+    "minLevel": 1
+  },
+  {
+    "id": "el-paso-tx",
+    "name": "El Paso",
+    "state": "TX",
+    "population": 678815,
+    "rank": 22,
+    "minLevel": 1
+  },
+  {
+    "id": "boston-ma",
+    "name": "Boston",
+    "state": "MA",
+    "population": 675647,
+    "rank": 23,
+    "minLevel": 1
+  },
+  {
+    "id": "portland-or",
+    "name": "Portland",
+    "state": "OR",
+    "population": 652503,
+    "rank": 24,
+    "minLevel": 1
+  },
+  {
+    "id": "las-vegas-nv",
+    "name": "Las Vegas",
+    "state": "NV",
+    "population": 641903,
+    "rank": 25,
+    "minLevel": 1
+  },
+  {
+    "id": "detroit-mi",
+    "name": "Detroit",
+    "state": "MI",
+    "population": 639111,
+    "rank": 26,
+    "minLevel": 1
+  },
+  {
+    "id": "memphis-tn",
+    "name": "Memphis",
+    "state": "TN",
+    "population": 633104,
+    "rank": 27,
+    "minLevel": 1
+  },
+  {
+    "id": "louisville-ky",
+    "name": "Louisville",
+    "state": "KY",
+    "population": 633045,
+    "rank": 28,
+    "minLevel": 1
+  },
+  {
+    "id": "baltimore-md",
+    "name": "Baltimore",
+    "state": "MD",
+    "population": 585708,
+    "rank": 29,
+    "minLevel": 1
+  },
+  {
+    "id": "milwaukee-wi",
+    "name": "Milwaukee",
+    "state": "WI",
+    "population": 577222,
+    "rank": 30,
+    "minLevel": 1
+  },
+  {
+    "id": "albuquerque-nm",
+    "name": "Albuquerque",
+    "state": "NM",
+    "population": 564559,
+    "rank": 31,
+    "minLevel": 1
+  },
+  {
+    "id": "tucson-az",
+    "name": "Tucson",
+    "state": "AZ",
+    "population": 542629,
+    "rank": 32,
+    "minLevel": 1
+  },
+  {
+    "id": "fresno-ca",
+    "name": "Fresno",
+    "state": "CA",
+    "population": 542107,
+    "rank": 33,
+    "minLevel": 1
+  },
+  {
+    "id": "sacramento-ca",
+    "name": "Sacramento",
+    "state": "CA",
+    "population": 524943,
+    "rank": 34,
+    "minLevel": 1
+  },
+  {
+    "id": "kansas-city-mo",
+    "name": "Kansas City",
+    "state": "MO",
+    "population": 508090,
+    "rank": 35,
+    "minLevel": 1
+  },
+  {
+    "id": "mesa-az",
+    "name": "Mesa",
+    "state": "AZ",
+    "population": 504258,
+    "rank": 36,
+    "minLevel": 1
+  },
+  {
+    "id": "atlanta-ga",
+    "name": "Atlanta",
+    "state": "GA",
+    "population": 498715,
+    "rank": 37,
+    "minLevel": 1
+  },
+  {
+    "id": "omaha-ne",
+    "name": "Omaha",
+    "state": "NE",
+    "population": 486051,
+    "rank": 38,
+    "minLevel": 1
+  },
+  {
+    "id": "colorado-springs-co",
+    "name": "Colorado Springs",
+    "state": "CO",
+    "population": 478961,
+    "rank": 39,
+    "minLevel": 1
+  },
+  {
+    "id": "raleigh-nc",
+    "name": "Raleigh",
+    "state": "NC",
+    "population": 467665,
+    "rank": 40,
+    "minLevel": 1
+  },
+  {
+    "id": "long-beach-ca",
+    "name": "Long Beach",
+    "state": "CA",
+    "population": 466742,
+    "rank": 41,
+    "minLevel": 1
+  },
+  {
+    "id": "virginia-beach-va",
+    "name": "Virginia Beach",
+    "state": "VA",
+    "population": 459470,
+    "rank": 42,
+    "minLevel": 1
+  },
+  {
+    "id": "miami-fl",
+    "name": "Miami",
+    "state": "FL",
+    "population": 442241,
+    "rank": 43,
+    "minLevel": 1
+  },
+  {
+    "id": "oakland-ca",
+    "name": "Oakland",
+    "state": "CA",
+    "population": 440646,
+    "rank": 44,
+    "minLevel": 1
+  },
+  {
+    "id": "minneapolis-mn",
+    "name": "Minneapolis",
+    "state": "MN",
+    "population": 429954,
+    "rank": 45,
+    "minLevel": 1
+  },
+  {
+    "id": "tulsa-ok",
+    "name": "Tulsa",
+    "state": "OK",
+    "population": 413066,
+    "rank": 46,
+    "minLevel": 1
+  },
+  {
+    "id": "bakersfield-ca",
+    "name": "Bakersfield",
+    "state": "CA",
+    "population": 403455,
+    "rank": 47,
+    "minLevel": 1
+  },
+  {
+    "id": "wichita-ks",
+    "name": "Wichita",
+    "state": "KS",
+    "population": 397532,
+    "rank": 48,
+    "minLevel": 1
+  },
+  {
+    "id": "arlington-tx",
+    "name": "Arlington",
+    "state": "TX",
+    "population": 394266,
+    "rank": 49,
+    "minLevel": 1
+  },
+  {
+    "id": "aurora-co",
+    "name": "Aurora",
+    "state": "CO",
+    "population": 386261,
+    "rank": 50,
+    "minLevel": 1
+  },
+  {
+    "id": "tampa-fl",
+    "name": "Tampa",
+    "state": "FL",
+    "population": 384959,
+    "rank": 51,
+    "minLevel": 2
+  },
+  {
+    "id": "new-orleans-la",
+    "name": "New Orleans",
+    "state": "LA",
+    "population": 383997,
+    "rank": 52,
+    "minLevel": 2
+  },
+  {
+    "id": "cleveland-oh",
+    "name": "Cleveland",
+    "state": "OH",
+    "population": 372624,
+    "rank": 53,
+    "minLevel": 2
+  },
+  {
+    "id": "honolulu-hi",
+    "name": "Honolulu",
+    "state": "HI",
+    "population": 350964,
+    "rank": 54,
+    "minLevel": 2
+  },
+  {
+    "id": "anaheim-ca",
+    "name": "Anaheim",
+    "state": "CA",
+    "population": 346824,
+    "rank": 55,
+    "minLevel": 2
+  },
+  {
+    "id": "lexington-ky",
+    "name": "Lexington",
+    "state": "KY",
+    "population": 322570,
+    "rank": 56,
+    "minLevel": 2
+  },
+  {
+    "id": "stockton-ca",
+    "name": "Stockton",
+    "state": "CA",
+    "population": 320804,
+    "rank": 57,
+    "minLevel": 2
+  },
+  {
+    "id": "corpus-christi-tx",
+    "name": "Corpus Christi",
+    "state": "TX",
+    "population": 317863,
+    "rank": 58,
+    "minLevel": 2
+  },
+  {
+    "id": "henderson-nv",
+    "name": "Henderson",
+    "state": "NV",
+    "population": 317610,
+    "rank": 59,
+    "minLevel": 2
+  },
+  {
+    "id": "riverside-ca",
+    "name": "Riverside",
+    "state": "CA",
+    "population": 314998,
+    "rank": 60,
+    "minLevel": 2
+  },
+  {
+    "id": "newark-nj",
+    "name": "Newark",
+    "state": "NJ",
+    "population": 311549,
+    "rank": 61,
+    "minLevel": 2
+  },
+  {
+    "id": "st-paul-mn",
+    "name": "St. Paul",
+    "state": "MN",
+    "population": 311527,
+    "rank": 62,
+    "minLevel": 2
+  },
+  {
+    "id": "santa-ana-ca",
+    "name": "Santa Ana",
+    "state": "CA",
+    "population": 310227,
+    "rank": 63,
+    "minLevel": 2
+  },
+  {
+    "id": "cincinnati-oh",
+    "name": "Cincinnati",
+    "state": "OH",
+    "population": 309317,
+    "rank": 64,
+    "minLevel": 2
+  },
+  {
+    "id": "irvine-ca",
+    "name": "Irvine",
+    "state": "CA",
+    "population": 307670,
+    "rank": 65,
+    "minLevel": 2
+  },
+  {
+    "id": "orlando-fl",
+    "name": "Orlando",
+    "state": "FL",
+    "population": 307573,
+    "rank": 66,
+    "minLevel": 2
+  },
+  {
+    "id": "pittsburgh-pa",
+    "name": "Pittsburgh",
+    "state": "PA",
+    "population": 302971,
+    "rank": 67,
+    "minLevel": 2
+  },
+  {
+    "id": "st-louis-mo",
+    "name": "St. Louis",
+    "state": "MO",
+    "population": 301578,
+    "rank": 68,
+    "minLevel": 2
+  },
+  {
+    "id": "greensboro-nc",
+    "name": "Greensboro",
+    "state": "NC",
+    "population": 299035,
+    "rank": 69,
+    "minLevel": 2
+  },
+  {
+    "id": "jersey-city-nj",
+    "name": "Jersey City",
+    "state": "NJ",
+    "population": 292449,
+    "rank": 70,
+    "minLevel": 2
+  },
+  {
+    "id": "anchorage-ak",
+    "name": "Anchorage",
+    "state": "AK",
+    "population": 291247,
+    "rank": 71,
+    "minLevel": 2
+  },
+  {
+    "id": "lincoln-ne",
+    "name": "Lincoln",
+    "state": "NE",
+    "population": 291082,
+    "rank": 72,
+    "minLevel": 2
+  },
+  {
+    "id": "plano-tx",
+    "name": "Plano",
+    "state": "TX",
+    "population": 285494,
+    "rank": 73,
+    "minLevel": 2
+  },
+  {
+    "id": "durham-nc",
+    "name": "Durham",
+    "state": "NC",
+    "population": 283506,
+    "rank": 74,
+    "minLevel": 2
+  },
+  {
+    "id": "buffalo-ny",
+    "name": "Buffalo",
+    "state": "NY",
+    "population": 278349,
+    "rank": 75,
+    "minLevel": 2
+  },
+  {
+    "id": "chandler-az",
+    "name": "Chandler",
+    "state": "AZ",
+    "population": 275987,
+    "rank": 76,
+    "minLevel": 2
+  },
+  {
+    "id": "chula-vista-ca",
+    "name": "Chula Vista",
+    "state": "CA",
+    "population": 275487,
+    "rank": 77,
+    "minLevel": 2
+  },
+  {
+    "id": "toledo-oh",
+    "name": "Toledo",
+    "state": "OH",
+    "population": 270871,
+    "rank": 78,
+    "minLevel": 2
+  },
+  {
+    "id": "madison-wi",
+    "name": "Madison",
+    "state": "WI",
+    "population": 269840,
+    "rank": 79,
+    "minLevel": 2
+  },
+  {
+    "id": "gilbert-az",
+    "name": "Gilbert",
+    "state": "AZ",
+    "population": 267918,
+    "rank": 80,
+    "minLevel": 2
+  },
+  {
+    "id": "reno-nv",
+    "name": "Reno",
+    "state": "NV",
+    "population": 264165,
+    "rank": 81,
+    "minLevel": 2
+  },
+  {
+    "id": "fort-wayne-in",
+    "name": "Fort Wayne",
+    "state": "IN",
+    "population": 263886,
+    "rank": 82,
+    "minLevel": 2
+  },
+  {
+    "id": "north-las-vegas-nv",
+    "name": "North Las Vegas",
+    "state": "NV",
+    "population": 262527,
+    "rank": 83,
+    "minLevel": 2
+  },
+  {
+    "id": "st-petersburg-fl",
+    "name": "St. Petersburg",
+    "state": "FL",
+    "population": 258308,
+    "rank": 84,
+    "minLevel": 2
+  },
+  {
+    "id": "lubbock-tx",
+    "name": "Lubbock",
+    "state": "TX",
+    "population": 257141,
+    "rank": 85,
+    "minLevel": 2
+  },
+  {
+    "id": "irving-tx",
+    "name": "Irving",
+    "state": "TX",
+    "population": 256684,
+    "rank": 86,
+    "minLevel": 2
+  },
+  {
+    "id": "laredo-tx",
+    "name": "Laredo",
+    "state": "TX",
+    "population": 255205,
+    "rank": 87,
+    "minLevel": 2
+  },
+  {
+    "id": "winston-salem-nc",
+    "name": "Winston-Salem",
+    "state": "NC",
+    "population": 249545,
+    "rank": 88,
+    "minLevel": 2
+  },
+  {
+    "id": "chesapeake-va",
+    "name": "Chesapeake",
+    "state": "VA",
+    "population": 249422,
+    "rank": 89,
+    "minLevel": 2
+  },
+  {
+    "id": "glendale-az",
+    "name": "Glendale",
+    "state": "AZ",
+    "population": 248325,
+    "rank": 90,
+    "minLevel": 2
+  },
+  {
+    "id": "garland-tx",
+    "name": "Garland",
+    "state": "TX",
+    "population": 246018,
+    "rank": 91,
+    "minLevel": 2
+  },
+  {
+    "id": "scottsdale-az",
+    "name": "Scottsdale",
+    "state": "AZ",
+    "population": 241361,
+    "rank": 92,
+    "minLevel": 2
+  },
+  {
+    "id": "norfolk-va",
+    "name": "Norfolk",
+    "state": "VA",
+    "population": 238005,
+    "rank": 93,
+    "minLevel": 2
+  },
+  {
+    "id": "boise-id",
+    "name": "Boise",
+    "state": "ID",
+    "population": 235684,
+    "rank": 94,
+    "minLevel": 2
+  },
+  {
+    "id": "fremont-ca",
+    "name": "Fremont",
+    "state": "CA",
+    "population": 230504,
+    "rank": 95,
+    "minLevel": 2
+  },
+  {
+    "id": "spokane-wa",
+    "name": "Spokane",
+    "state": "WA",
+    "population": 228989,
+    "rank": 96,
+    "minLevel": 2
+  },
+  {
+    "id": "santa-clarita-ca",
+    "name": "Santa Clarita",
+    "state": "CA",
+    "population": 228673,
+    "rank": 97,
+    "minLevel": 2
+  },
+  {
+    "id": "baton-rouge-la",
+    "name": "Baton Rouge",
+    "state": "LA",
+    "population": 227470,
+    "rank": 98,
+    "minLevel": 2
+  },
+  {
+    "id": "richmond-va",
+    "name": "Richmond",
+    "state": "VA",
+    "population": 226610,
+    "rank": 99,
+    "minLevel": 2
+  },
+  {
+    "id": "hialeah-fl",
+    "name": "Hialeah",
+    "state": "FL",
+    "population": 223109,
+    "rank": 100,
+    "minLevel": 2
+  },
+  {
+    "id": "san-bernardino-ca",
+    "name": "San Bernardino",
+    "state": "CA",
+    "population": 222101,
+    "rank": 101,
+    "minLevel": 3
+  },
+  {
+    "id": "tacoma-wa",
+    "name": "Tacoma",
+    "state": "WA",
+    "population": 219346,
+    "rank": 102,
+    "minLevel": 3
+  },
+  {
+    "id": "modesto-ca",
+    "name": "Modesto",
+    "state": "CA",
+    "population": 218464,
+    "rank": 103,
+    "minLevel": 3
+  },
+  {
+    "id": "huntsville-al",
+    "name": "Huntsville",
+    "state": "AL",
+    "population": 215006,
+    "rank": 104,
+    "minLevel": 3
+  },
+  {
+    "id": "des-moines-ia",
+    "name": "Des Moines",
+    "state": "IA",
+    "population": 214133,
+    "rank": 105,
+    "minLevel": 3
+  },
+  {
+    "id": "yonkers-ny",
+    "name": "Yonkers",
+    "state": "NY",
+    "population": 211569,
+    "rank": 106,
+    "minLevel": 3
+  },
+  {
+    "id": "rochester-ny",
+    "name": "Rochester",
+    "state": "NY",
+    "population": 211328,
+    "rank": 107,
+    "minLevel": 3
+  },
+  {
+    "id": "moreno-valley-ca",
+    "name": "Moreno Valley",
+    "state": "CA",
+    "population": 208634,
+    "rank": 108,
+    "minLevel": 3
+  },
+  {
+    "id": "fayetteville-nc",
+    "name": "Fayetteville",
+    "state": "NC",
+    "population": 208501,
+    "rank": 109,
+    "minLevel": 3
+  },
+  {
+    "id": "fontana-ca",
+    "name": "Fontana",
+    "state": "CA",
+    "population": 208393,
+    "rank": 110,
+    "minLevel": 3
+  },
+  {
+    "id": "columbus-ga",
+    "name": "Columbus",
+    "state": "GA",
+    "population": 206922,
+    "rank": 111,
+    "minLevel": 3
+  },
+  {
+    "id": "worcester-ma",
+    "name": "Worcester",
+    "state": "MA",
+    "population": 206518,
+    "rank": 112,
+    "minLevel": 3
+  },
+  {
+    "id": "port-st-lucie-fl",
+    "name": "Port St. Lucie",
+    "state": "FL",
+    "population": 204851,
+    "rank": 113,
+    "minLevel": 3
+  },
+  {
+    "id": "little-rock-ar",
+    "name": "Little Rock",
+    "state": "AR",
+    "population": 202591,
+    "rank": 114,
+    "minLevel": 3
+  },
+  {
+    "id": "augusta-ga",
+    "name": "Augusta",
+    "state": "GA",
+    "population": 202081,
+    "rank": 115,
+    "minLevel": 3
+  },
+  {
+    "id": "oxnard-ca",
+    "name": "Oxnard",
+    "state": "CA",
+    "population": 202063,
+    "rank": 116,
+    "minLevel": 3
+  },
+  {
+    "id": "birmingham-al",
+    "name": "Birmingham",
+    "state": "AL",
+    "population": 200733,
+    "rank": 117,
+    "minLevel": 3
+  },
+  {
+    "id": "montgomery-al",
+    "name": "Montgomery",
+    "state": "AL",
+    "population": 200603,
+    "rank": 118,
+    "minLevel": 3
+  },
+  {
+    "id": "frisco-tx",
+    "name": "Frisco",
+    "state": "TX",
+    "population": 200509,
+    "rank": 119,
+    "minLevel": 3
+  },
+  {
+    "id": "amarillo-tx",
+    "name": "Amarillo",
+    "state": "TX",
+    "population": 200393,
+    "rank": 120,
+    "minLevel": 3
+  },
+  {
+    "id": "salt-lake-city-ut",
+    "name": "Salt Lake City",
+    "state": "UT",
+    "population": 199723,
+    "rank": 121,
+    "minLevel": 3
+  },
+  {
+    "id": "grand-rapids-mi",
+    "name": "Grand Rapids",
+    "state": "MI",
+    "population": 198917,
+    "rank": 122,
+    "minLevel": 3
+  },
+  {
+    "id": "huntington-beach-ca",
+    "name": "Huntington Beach",
+    "state": "CA",
+    "population": 198711,
+    "rank": 123,
+    "minLevel": 3
+  },
+  {
+    "id": "overland-park-ks",
+    "name": "Overland Park",
+    "state": "KS",
+    "population": 197238,
+    "rank": 124,
+    "minLevel": 3
+  },
+  {
+    "id": "glendale-ca",
+    "name": "Glendale",
+    "state": "CA",
+    "population": 196543,
+    "rank": 125,
+    "minLevel": 3
+  },
+  {
+    "id": "tallahassee-fl",
+    "name": "Tallahassee",
+    "state": "FL",
+    "population": 196169,
+    "rank": 126,
+    "minLevel": 3
+  },
+  {
+    "id": "grand-prairie-tx",
+    "name": "Grand Prairie",
+    "state": "TX",
+    "population": 196100,
+    "rank": 127,
+    "minLevel": 3
+  },
+  {
+    "id": "mckinney-tx",
+    "name": "McKinney",
+    "state": "TX",
+    "population": 195308,
+    "rank": 128,
+    "minLevel": 3
+  },
+  {
+    "id": "cape-coral-fl",
+    "name": "Cape Coral",
+    "state": "FL",
+    "population": 194016,
+    "rank": 129,
+    "minLevel": 3
+  },
+  {
+    "id": "sioux-falls-sd",
+    "name": "Sioux Falls",
+    "state": "SD",
+    "population": 192517,
+    "rank": 130,
+    "minLevel": 3
+  },
+  {
+    "id": "peoria-az",
+    "name": "Peoria",
+    "state": "AZ",
+    "population": 190985,
+    "rank": 131,
+    "minLevel": 3
+  },
+  {
+    "id": "providence-ri",
+    "name": "Providence",
+    "state": "RI",
+    "population": 190934,
+    "rank": 132,
+    "minLevel": 3
+  },
+  {
+    "id": "vancouver-wa",
+    "name": "Vancouver",
+    "state": "WA",
+    "population": 190915,
+    "rank": 133,
+    "minLevel": 3
+  },
+  {
+    "id": "knoxville-tn",
+    "name": "Knoxville",
+    "state": "TN",
+    "population": 190740,
+    "rank": 134,
+    "minLevel": 3
+  },
+  {
+    "id": "akron-oh",
+    "name": "Akron",
+    "state": "OH",
+    "population": 190469,
+    "rank": 135,
+    "minLevel": 3
+  },
+  {
+    "id": "shreveport-la",
+    "name": "Shreveport",
+    "state": "LA",
+    "population": 187593,
+    "rank": 136,
+    "minLevel": 3
+  },
+  {
+    "id": "mobile-al",
+    "name": "Mobile",
+    "state": "AL",
+    "population": 187041,
+    "rank": 137,
+    "minLevel": 3
+  },
+  {
+    "id": "brownsville-tx",
+    "name": "Brownsville",
+    "state": "TX",
+    "population": 186738,
+    "rank": 138,
+    "minLevel": 3
+  },
+  {
+    "id": "newport-news-va",
+    "name": "Newport News",
+    "state": "VA",
+    "population": 186247,
+    "rank": 139,
+    "minLevel": 3
+  },
+  {
+    "id": "fort-lauderdale-fl",
+    "name": "Fort Lauderdale",
+    "state": "FL",
+    "population": 182760,
+    "rank": 140,
+    "minLevel": 3
+  },
+  {
+    "id": "chattanooga-tn",
+    "name": "Chattanooga",
+    "state": "TN",
+    "population": 181099,
+    "rank": 141,
+    "minLevel": 3
+  },
+  {
+    "id": "tempe-az",
+    "name": "Tempe",
+    "state": "AZ",
+    "population": 180587,
+    "rank": 142,
+    "minLevel": 3
+  },
+  {
+    "id": "aurora-il",
+    "name": "Aurora",
+    "state": "IL",
+    "population": 180542,
+    "rank": 143,
+    "minLevel": 3
+  },
+  {
+    "id": "santa-rosa-ca",
+    "name": "Santa Rosa",
+    "state": "CA",
+    "population": 178127,
+    "rank": 144,
+    "minLevel": 3
+  },
+  {
+    "id": "eugene-or",
+    "name": "Eugene",
+    "state": "OR",
+    "population": 176654,
+    "rank": 145,
+    "minLevel": 3
+  },
+  {
+    "id": "elk-grove-ca",
+    "name": "Elk Grove",
+    "state": "CA",
+    "population": 176124,
+    "rank": 146,
+    "minLevel": 3
+  },
+  {
+    "id": "salem-or",
+    "name": "Salem",
+    "state": "OR",
+    "population": 175535,
+    "rank": 147,
+    "minLevel": 3
+  },
+  {
+    "id": "ontario-ca",
+    "name": "Ontario",
+    "state": "CA",
+    "population": 175265,
+    "rank": 148,
+    "minLevel": 3
+  },
+  {
+    "id": "cary-nc",
+    "name": "Cary",
+    "state": "NC",
+    "population": 174721,
+    "rank": 149,
+    "minLevel": 3
+  },
+  {
+    "id": "rancho-cucamonga-ca",
+    "name": "Rancho Cucamonga",
+    "state": "CA",
+    "population": 174453,
+    "rank": 150,
+    "minLevel": 3
+  },
+  {
+    "id": "oceanside-ca",
+    "name": "Oceanside",
+    "state": "CA",
+    "population": 174068,
+    "rank": 151,
+    "minLevel": 3
+  },
+  {
+    "id": "lancaster-ca",
+    "name": "Lancaster",
+    "state": "CA",
+    "population": 173516,
+    "rank": 152,
+    "minLevel": 3
+  },
+  {
+    "id": "garden-grove-ca",
+    "name": "Garden Grove",
+    "state": "CA",
+    "population": 171949,
+    "rank": 153,
+    "minLevel": 3
+  },
+  {
+    "id": "pembroke-pines-fl",
+    "name": "Pembroke Pines",
+    "state": "FL",
+    "population": 171178,
+    "rank": 154,
+    "minLevel": 3
+  },
+  {
+    "id": "fort-collins-co",
+    "name": "Fort Collins",
+    "state": "CO",
+    "population": 169810,
+    "rank": 155,
+    "minLevel": 3
+  },
+  {
+    "id": "palmdale-ca",
+    "name": "Palmdale",
+    "state": "CA",
+    "population": 169450,
+    "rank": 156,
+    "minLevel": 3
+  },
+  {
+    "id": "springfield-mo",
+    "name": "Springfield",
+    "state": "MO",
+    "population": 169176,
+    "rank": 157,
+    "minLevel": 3
+  },
+  {
+    "id": "clarksville-tn",
+    "name": "Clarksville",
+    "state": "TN",
+    "population": 166722,
+    "rank": 158,
+    "minLevel": 3
+  },
+  {
+    "id": "salinas-ca",
+    "name": "Salinas",
+    "state": "CA",
+    "population": 163542,
+    "rank": 159,
+    "minLevel": 3
+  },
+  {
+    "id": "hayward-ca",
+    "name": "Hayward",
+    "state": "CA",
+    "population": 162954,
+    "rank": 160,
+    "minLevel": 3
+  },
+  {
+    "id": "paterson-nj",
+    "name": "Paterson",
+    "state": "NJ",
+    "population": 159732,
+    "rank": 161,
+    "minLevel": 3
+  },
+  {
+    "id": "alexandria-va",
+    "name": "Alexandria",
+    "state": "VA",
+    "population": 159467,
+    "rank": 162,
+    "minLevel": 3
+  },
+  {
+    "id": "macon-ga",
+    "name": "Macon",
+    "state": "GA",
+    "population": 157346,
+    "rank": 163,
+    "minLevel": 3
+  },
+  {
+    "id": "corona-ca",
+    "name": "Corona",
+    "state": "CA",
+    "population": 157136,
+    "rank": 164,
+    "minLevel": 3
+  },
+  {
+    "id": "kansas-city-ks",
+    "name": "Kansas City",
+    "state": "KS",
+    "population": 156607,
+    "rank": 165,
+    "minLevel": 3
+  },
+  {
+    "id": "lakewood-co",
+    "name": "Lakewood",
+    "state": "CO",
+    "population": 155984,
+    "rank": 166,
+    "minLevel": 3
+  },
+  {
+    "id": "springfield-ma",
+    "name": "Springfield",
+    "state": "MA",
+    "population": 155929,
+    "rank": 167,
+    "minLevel": 3
+  },
+  {
+    "id": "sunnyvale-ca",
+    "name": "Sunnyvale",
+    "state": "CA",
+    "population": 155805,
+    "rank": 168,
+    "minLevel": 3
+  },
+  {
+    "id": "jackson-ms",
+    "name": "Jackson",
+    "state": "MS",
+    "population": 153701,
+    "rank": 169,
+    "minLevel": 3
+  },
+  {
+    "id": "killeen-tx",
+    "name": "Killeen",
+    "state": "TX",
+    "population": 153095,
+    "rank": 170,
+    "minLevel": 3
+  },
+  {
+    "id": "hollywood-fl",
+    "name": "Hollywood",
+    "state": "FL",
+    "population": 153067,
+    "rank": 171,
+    "minLevel": 3
+  },
+  {
+    "id": "murfreesboro-tn",
+    "name": "Murfreesboro",
+    "state": "TN",
+    "population": 152769,
+    "rank": 172,
+    "minLevel": 3
+  },
+  {
+    "id": "pasadena-tx",
+    "name": "Pasadena",
+    "state": "TX",
+    "population": 151950,
+    "rank": 173,
+    "minLevel": 3
+  },
+  {
+    "id": "bellevue-wa",
+    "name": "Bellevue",
+    "state": "WA",
+    "population": 151854,
+    "rank": 174,
+    "minLevel": 3
+  },
+  {
+    "id": "pomona-ca",
+    "name": "Pomona",
+    "state": "CA",
+    "population": 151713,
+    "rank": 175,
+    "minLevel": 3
+  },
+  {
+    "id": "escondido-ca",
+    "name": "Escondido",
+    "state": "CA",
+    "population": 151038,
+    "rank": 176,
+    "minLevel": 3
+  },
+  {
+    "id": "joliet-il",
+    "name": "Joliet",
+    "state": "IL",
+    "population": 150362,
+    "rank": 177,
+    "minLevel": 3
+  },
+  {
+    "id": "charleston-sc",
+    "name": "Charleston",
+    "state": "SC",
+    "population": 150227,
+    "rank": 178,
+    "minLevel": 3
+  },
+  {
+    "id": "mesquite-tx",
+    "name": "Mesquite",
+    "state": "TX",
+    "population": 150108,
+    "rank": 179,
+    "minLevel": 3
+  },
+  {
+    "id": "naperville-il",
+    "name": "Naperville",
+    "state": "IL",
+    "population": 149540,
+    "rank": 180,
+    "minLevel": 3
+  },
+  {
+    "id": "rockford-il",
+    "name": "Rockford",
+    "state": "IL",
+    "population": 148655,
+    "rank": 181,
+    "minLevel": 3
+  },
+  {
+    "id": "bridgeport-ct",
+    "name": "Bridgeport",
+    "state": "CT",
+    "population": 148654,
+    "rank": 182,
+    "minLevel": 3
+  },
+  {
+    "id": "syracuse-ny",
+    "name": "Syracuse",
+    "state": "NY",
+    "population": 148620,
+    "rank": 183,
+    "minLevel": 3
+  },
+  {
+    "id": "savannah-ga",
+    "name": "Savannah",
+    "state": "GA",
+    "population": 147780,
+    "rank": 184,
+    "minLevel": 3
+  },
+  {
+    "id": "roseville-ca",
+    "name": "Roseville",
+    "state": "CA",
+    "population": 147773,
+    "rank": 185,
+    "minLevel": 3
+  },
+  {
+    "id": "torrance-ca",
+    "name": "Torrance",
+    "state": "CA",
+    "population": 147067,
+    "rank": 186,
+    "minLevel": 3
+  },
+  {
+    "id": "fullerton-ca",
+    "name": "Fullerton",
+    "state": "CA",
+    "population": 143617,
+    "rank": 187,
+    "minLevel": 3
+  },
+  {
+    "id": "surprise-az",
+    "name": "Surprise",
+    "state": "AZ",
+    "population": 143148,
+    "rank": 188,
+    "minLevel": 3
+  },
+  {
+    "id": "mcallen-tx",
+    "name": "McAllen",
+    "state": "TX",
+    "population": 142210,
+    "rank": 189,
+    "minLevel": 3
+  },
+  {
+    "id": "thornton-co",
+    "name": "Thornton",
+    "state": "CO",
+    "population": 141867,
+    "rank": 190,
+    "minLevel": 3
+  },
+  {
+    "id": "visalia-ca",
+    "name": "Visalia",
+    "state": "CA",
+    "population": 141384,
+    "rank": 191,
+    "minLevel": 3
+  },
+  {
+    "id": "olathe-ks",
+    "name": "Olathe",
+    "state": "KS",
+    "population": 141290,
+    "rank": 192,
+    "minLevel": 3
+  },
+  {
+    "id": "gainesville-fl",
+    "name": "Gainesville",
+    "state": "FL",
+    "population": 141085,
+    "rank": 193,
+    "minLevel": 3
+  },
+  {
+    "id": "west-valley-city-ut",
+    "name": "West Valley City",
+    "state": "UT",
+    "population": 140230,
+    "rank": 194,
+    "minLevel": 3
+  },
+  {
+    "id": "orange-ca",
+    "name": "Orange",
+    "state": "CA",
+    "population": 139911,
+    "rank": 195,
+    "minLevel": 3
+  },
+  {
+    "id": "denton-tx",
+    "name": "Denton",
+    "state": "TX",
+    "population": 139869,
+    "rank": 196,
+    "minLevel": 3
+  },
+  {
+    "id": "warren-mi",
+    "name": "Warren",
+    "state": "MI",
+    "population": 139387,
+    "rank": 197,
+    "minLevel": 3
+  },
+  {
+    "id": "pasadena-ca",
+    "name": "Pasadena",
+    "state": "CA",
+    "population": 138699,
+    "rank": 198,
+    "minLevel": 3
+  },
+  {
+    "id": "waco-tx",
+    "name": "Waco",
+    "state": "TX",
+    "population": 138486,
+    "rank": 199,
+    "minLevel": 3
+  },
+  {
+    "id": "cedar-rapids-ia",
+    "name": "Cedar Rapids",
+    "state": "IA",
+    "population": 137710,
+    "rank": 200,
+    "minLevel": 3
+  },
+  {
+    "id": "fargo-nd",
+    "name": "Fargo",
+    "state": "ND",
+    "population": 125990,
+    "rank": 201,
+    "minLevel": 3
+  },
+  {
+    "id": "billings-mt",
+    "name": "Billings",
+    "state": "MT",
+    "population": 117116,
+    "rank": 202,
+    "minLevel": 3
+  },
+  {
+    "id": "manchester-nh",
+    "name": "Manchester",
+    "state": "NH",
+    "population": 115644,
+    "rank": 203,
+    "minLevel": 3
+  },
+  {
+    "id": "wilmington-de",
+    "name": "Wilmington",
+    "state": "DE",
+    "population": 70898,
+    "rank": 204,
+    "minLevel": 3
+  },
+  {
+    "id": "portland-me",
+    "name": "Portland",
+    "state": "ME",
+    "population": 68408,
+    "rank": 205,
+    "minLevel": 3
+  },
+  {
+    "id": "cheyenne-wy",
+    "name": "Cheyenne",
+    "state": "WY",
+    "population": 65132,
+    "rank": 206,
+    "minLevel": 3
+  },
+  {
+    "id": "charleston-wv",
+    "name": "Charleston",
+    "state": "WV",
+    "population": 48864,
+    "rank": 207,
+    "minLevel": 3
+  },
+  {
+    "id": "burlington-vt",
+    "name": "Burlington",
+    "state": "VT",
+    "population": 44743,
+    "rank": 208,
+    "minLevel": 3
+  }
+]

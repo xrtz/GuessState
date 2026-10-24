@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Wilmington",
+    "state": "DE",
+    "population": 70898,
+    "note": "Largest incorporated place in Delaware; below the ~89k floor of the Wikipedia 'List of United States cities by population' sortable table, so pulled from the city's own Wikipedia infobox (2020 census)."
+  },
+  {
+    "name": "Portland",
+    "state": "ME",
+    "population": 68408,
+    "note": "Largest incorporated place in Maine; same reason as Wilmington above."
+  },
+  {
+    "name": "Burlington",
+    "state": "VT",
+    "population": 44743,
+    "note": "Largest incorporated place in Vermont; same reason as Wilmington above."
+  },
+  {
+    "name": "Charleston",
+    "state": "WV",
+    "population": 48864,
+    "note": "Largest incorporated place in West Virginia; same reason as Wilmington above."
+  },
+  {
+    "name": "Cheyenne",
+    "state": "WY",
+    "population": 65132,
+    "note": "Largest incorporated place in Wyoming; same reason as Wilmington above."
+  }
+]

@@ -1,0 +1,46 @@
+<resources>
+    <string name="party_team_default">Team %1$d</string>
+    <string name="party_back_to_menu">← Menu</string>
+    <string name="party_score_points">%1$d pts</string>
+
+    <string name="party_setup_back">← Back</string>
+    <string name="party_setup_title_describe">Describe the City</string>
+    <string name="party_setup_title_guess_state">Guess the State</string>
+    <string name="party_setup_desc_describe">Describe a city — your teammate guesses its name</string>
+    <string name="party_setup_desc_guess_state">Say the city — your teammate guesses which state</string>
+    <string name="party_setup_meta">%1$d rounds · %2$d cities / round · %3$d sec / round</string>
+    <string name="party_setup_team_count_label">Number of teams</string>
+    <string name="party_setup_team_count_option">%1$d teams</string>
+    <string name="party_setup_team_names_label">Team names</string>
+    <string name="party_setup_penalty_label">Penalty for skip</string>
+    <string name="party_setup_penalty_on">Skip = −1 point</string>
+    <string name="party_setup_penalty_off">Skip = 0 points</string>
+    <string name="party_setup_start">Start game →</string>
+
+    <string name="party_handoff_round">Round %1$d of %2$d</string>
+    <string name="party_handoff_hint">Pass the phone to your team</string>
+    <string name="party_handoff_start">We\'re ready — Start!</string>
+
+    <string name="party_hint_describe">Describe — no saying the city name!</string>
+    <string name="party_hint_guess_state">Say the city — partner guesses the state</string>
+    <string name="party_progress">%1$d / %2$d</string>
+    <string name="party_swipe_arrow_skip">← Skip</string>
+    <string name="party_swipe_arrow_correct">Correct →</string>
+    <string name="party_swipe_label_skip">✗ Skip</string>
+    <string name="party_swipe_label_correct">✓ Correct!</string>
+    <string name="party_button_skip">✗ Skip</string>
+    <string name="party_button_correct">✓ Correct</string>
+
+    <string name="party_round_over">Round over!</string>
+    <string name="party_stat_correct">Correct</string>
+    <string name="party_stat_skipped">Skipped</string>
+    <string name="party_stat_points">Points</string>
+    <string name="party_next_team">Next team →</string>
+    <string name="party_final_scores">🏆 See final scores</string>
+
+    <string name="party_game_over">Game over!</string>
+    <string name="party_winner">🥇 %1$s wins!</string>
+    <string name="party_tie">🤝 It\'s a tie!</string>
+    <string name="party_play_again">Play again</string>
+    <string name="party_menu">Menu</string>
+</resources>

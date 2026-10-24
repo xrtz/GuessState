@@ -1,0 +1,46 @@
+# Overrides on top of detekt's own default ruleset (buildUponDefaultConfig = true in
+# build-logic's whichstate.detekt convention plugin). Kept deliberately small for Phase 00 —
+# tightened as real domain/UI code lands in later phases.
+
+formatting:
+  # detekt-formatting 1.23.8's ktlint integration NPEs in beforeVisitChildNodes (missing
+  # EDITOR_CONFIG_USER_DATA_KEY — pinterest/ktlint#639) on some files, e.g.
+  # app/src/test/.../ArchitectureRulesTest.kt (backtick-named @Test functions). It's not
+  # one bad rule: NoUnusedImportsRule and ImportOrderingRule both crashed the same way in
+  # turn, so disabling them one at a time is whack-a-mole — the whole ruleset is off until
+  # detekt 2.0 (built for Kotlin 2.2+/K2) is stable. Android Studio's own formatter still
+  # catches most of this in the IDE, so it's a coverage gap, not a silent hole.
+  active: false
+
+style:
+  MagicNumber:
+    # Game/quiz code is full of legitimate literals (30-second rounds, 50 states, dp sizes).
+    # Revisit once :core:domain's RoundRules/policies land (Phase 02) if this hides real bugs.
+    active: false
+  ReturnCount:
+    # Guard-clause-heavy pure reducers (ClassicRoundReducer) read more clearly as a sequence
+    # of early returns than as nested if/else — same rationale as MagicNumber above.
+    max: 6
+  UnusedPrivateMember:
+    # Every component file carries a private `@Preview` composable for the debug gallery
+    # (docs/ARCHITECTURE.md §10) — it's only ever called by tooling/screenshot tests, never
+    # from Kotlin, so detekt sees it as dead code.
+    ignoreAnnotated: ['Preview']
+
+complexity:
+  LongParameterList:
+    # Compose component signatures are conventionally one or two required params followed by
+    # a pile of defaulted optional ones (modifier, variant, thresholds) — ignoring params with
+    # defaults keeps the check meaningful (flag many *required* params) without flagging that.
+    ignoreDefaultParameters: true
+
+naming:
+  FunctionNaming:
+    # @Composable functions are PascalCase by Compose convention (they read like a type,
+    # e.g. AtlasTheme, LevelCard) — that's not a naming violation in this codebase.
+    ignoreAnnotated: ['Composable']
+  MatchingDeclarationName:
+    # Each designsystem component file pairs one public composable (the file's namesake) with
+    # a small supporting enum (AtlasButtonVariant, ResultRowVariant, StateTileStatus, ...).
+    # The rule only looks at top-level types, so it flags the enum instead of the composable.
+    active: false

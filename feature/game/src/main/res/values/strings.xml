@@ -1,0 +1,5 @@
+<resources>
+    <string name="game_back_to_menu">← Menu</string>
+    <string name="game_prompt">Which state is this city in?</string>
+    <string name="game_near_miss_message">📍 So close — it\'s the next state over!</string>
+</resources>

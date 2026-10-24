@@ -1,0 +1,5 @@
+<resources>
+    <string name="game_back_to_menu">← Меню</string>
+    <string name="game_prompt">В каком штате этот город?</string>
+    <string name="game_near_miss_message">📍 Почти! Это соседний штат!</string>
+</resources>

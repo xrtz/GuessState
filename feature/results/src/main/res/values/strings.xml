@@ -1,0 +1,20 @@
+<resources>
+    <string name="results_loading">Loading…</string>
+    <string name="results_time_up">Time\'s up!</string>
+    <string name="results_score_line">%1$d / %2$d</string>
+    <string name="results_percentile_line">Better than %1$d%% of players</string>
+    <string name="results_shame_line">You put %1$s in %2$s</string>
+    <string name="results_legend_correct">Correct</string>
+    <string name="results_legend_wrong">Wrong</string>
+    <string name="results_stat_correct">Correct</string>
+    <string name="results_stat_wrong">Wrong</string>
+    <string name="results_share_button">📤 Share result</string>
+    <string name="results_share_generating">Generating…</string>
+    <string name="results_mastered_line">🗺 States mastered: %1$d / %2$d</string>
+    <string name="results_cities_heading">Cities answered — %1$d</string>
+    <string name="results_cities_empty">No cities answered — click faster!</string>
+    <string name="results_play_again">Play again</string>
+    <string name="results_change_level">Change level</string>
+    <string name="results_share_brand">Which State?</string>
+    <string name="results_share_footer">Which State? · US Geography Quiz</string>
+</resources>

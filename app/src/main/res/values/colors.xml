@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Editorial Atlas — subset needed before Compose draws (window background only).
+         Full token set lives in :core:designsystem (docs/ARCHITECTURE.md §10). -->
+    <color name="atlas_paper">#F3F1EA</color>
+    <color name="atlas_ink">#16203F</color>
+</resources>

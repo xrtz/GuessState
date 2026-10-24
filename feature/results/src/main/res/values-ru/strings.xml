@@ -1,0 +1,20 @@
+<resources>
+    <string name="results_loading">Загрузка…</string>
+    <string name="results_time_up">Время вышло!</string>
+    <string name="results_score_line">%1$d / %2$d</string>
+    <string name="results_percentile_line">Лучше, чем %1$d%% игроков</string>
+    <string name="results_shame_line">Ты расположил %1$s в %2$s </string>
+    <string name="results_legend_correct">Верно</string>
+    <string name="results_legend_wrong">Неверно</string>
+    <string name="results_stat_correct">Верно</string>
+    <string name="results_stat_wrong">Неверно</string>
+    <string name="results_share_button">📤 Поделиться результатом</string>
+    <string name="results_share_generating">Готовим…</string>
+    <string name="results_mastered_line">🗺 Освоено штатов: %1$d / %2$d</string>
+    <string name="results_cities_heading">Города в раунде — %1$d</string>
+    <string name="results_cities_empty">Ни одного города — жмите быстрее!</string>
+    <string name="results_play_again">Сыграть ещё</string>
+    <string name="results_change_level">Сменить уровень</string>
+    <string name="results_share_brand">Какой штат?</string>
+    <string name="results_share_footer">Какой штат? · Географическая викторина США</string>
+</resources>

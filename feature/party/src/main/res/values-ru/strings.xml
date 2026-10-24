@@ -1,0 +1,46 @@
+<resources>
+    <string name="party_team_default">Команда %1$d</string>
+    <string name="party_back_to_menu">← Меню</string>
+    <string name="party_score_points">%1$d очк.</string>
+
+    <string name="party_setup_back">← Назад</string>
+    <string name="party_setup_title_describe">Опиши город</string>
+    <string name="party_setup_title_guess_state">Угадай штат</string>
+    <string name="party_setup_desc_describe">Опишите город — напарник угадывает его название</string>
+    <string name="party_setup_desc_guess_state">Назовите город — напарник угадывает штат</string>
+    <string name="party_setup_meta">%1$d круга · %2$d городов / круг · %3$d сек / круг</string>
+    <string name="party_setup_team_count_label">Количество команд</string>
+    <string name="party_setup_team_count_option">%1$d команды</string>
+    <string name="party_setup_team_names_label">Имена команд</string>
+    <string name="party_setup_penalty_label">Штраф за пропуск</string>
+    <string name="party_setup_penalty_on">Пропуск = −1 очко</string>
+    <string name="party_setup_penalty_off">Пропуск = 0 очков</string>
+    <string name="party_setup_start">Начать игру →</string>
+
+    <string name="party_handoff_round">Раунд %1$d из %2$d</string>
+    <string name="party_handoff_hint">Передайте телефон своей команде</string>
+    <string name="party_handoff_start">Мы готовы — начали!</string>
+
+    <string name="party_hint_describe">Описывайте — не называйте город!</string>
+    <string name="party_hint_guess_state">Назовите город — напарник угадывает штат</string>
+    <string name="party_progress">%1$d / %2$d</string>
+    <string name="party_swipe_arrow_skip">← Пропуск</string>
+    <string name="party_swipe_arrow_correct">Верно →</string>
+    <string name="party_swipe_label_skip">✗ Пропуск</string>
+    <string name="party_swipe_label_correct">✓ Верно!</string>
+    <string name="party_button_skip">✗ Пропуск</string>
+    <string name="party_button_correct">✓ Верно</string>
+
+    <string name="party_round_over">Раунд окончен!</string>
+    <string name="party_stat_correct">Верно</string>
+    <string name="party_stat_skipped">Пропущено</string>
+    <string name="party_stat_points">Очки</string>
+    <string name="party_next_team">Следующая команда →</string>
+    <string name="party_final_scores">🏆 Итоговый счёт</string>
+
+    <string name="party_game_over">Игра окончена!</string>
+    <string name="party_winner">🥇 %1$s побеждает!</string>
+    <string name="party_tie">🤝 Ничья!</string>
+    <string name="party_play_again">Сыграть ещё</string>
+    <string name="party_menu">Меню</string>
+</resources>
